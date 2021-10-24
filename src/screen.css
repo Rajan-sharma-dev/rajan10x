@@ -1,0 +1,22 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.f1{
+    float: left;
+}
+.ho{
+    border: solid 2px;
+    width: 50%;
+    height: 100%;
+    margin-top: 2px;
+    
+}
+.hi{
+    margin: 2px;
+    border: solid 4px;
+    width: 50%;
+    height: 100%;
+}
